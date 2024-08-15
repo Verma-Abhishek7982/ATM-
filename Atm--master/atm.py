@@ -240,6 +240,6 @@ exit.place(x=20, y=500)
 # this is the buttom part
 bu = Frame(h)
 bu.pack(side=BOTTOM)
-Label(bu, text="Made by Trilok nath jha.....").pack()
+Label(bu, text="Made by Abhishek Verma.....").pack()
 h.mainloop()
 
