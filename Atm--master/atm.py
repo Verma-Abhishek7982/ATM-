@@ -7,7 +7,7 @@ def connect_to_db():
     return mysql.connector.connect(
         host="localhost",  # Update with your database host
         user="root",       # Update with your database username
-        password="Abhi@2003",  # Update with your database password
+        password="root",  # Update with your database password
         database="atm_service"  # Update with your database name
     )
 
